@@ -1,2 +1,2 @@
 Ejercicio calculadoraPromedio.js
-#Arelbis Carpio
+# Arelbis Carpio
